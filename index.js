@@ -77,7 +77,7 @@ function verifyOtp(nohp, code) {
 
 (async () => {
     console.log(chalk.green('Tomoro Creator Account'))
-    console.log(chalk.yellow('        Shared to SGB'))
+    console.log(chalk.yellow('Shared to Braincore'))
 
     console.log()
     const nohp = readlineSync.question('noHp?? +62 : ');
